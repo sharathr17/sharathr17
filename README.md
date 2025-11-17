@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm currently pursuing **Bachelor of Computer Applications (BCA)**
+- 🎓 I'm currently pursuing **Master of Computer Applications (MCA)**
 - 🌱 I’m currently learning **Python, Web Development, and Git**
 - 🧰 Interested in **Software Development**, **Web Technologies**, and **Open Source**
 - 💡 Building projects to grow as a developer
