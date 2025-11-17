@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharath R</h1>
-<h3 align="center">🎓 BCA Student | 💻 Future Software Engineer | 🌱 Growing through code one project at a time</h3>
+<h3 align="center">🎓 MCA Student | 💻 Future Software Engineer | 🌱 Growing through code one project at a time</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sharathr17&label=Profile%20views&color=0e75b6&style=flat" alt="sharathr17" />
