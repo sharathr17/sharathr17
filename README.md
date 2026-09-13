@@ -294,9 +294,9 @@ CI/CD              ████████░░░░░░░░░░░░
 
 | 🎓 Education | 💻 Development | 📊 Analytics | ⚙️ DevOps |
 |---|---|---|---|
-| MCA 2027 | React | Python | Git |
-| RVITM | JavaScript | Pandas | GitHub |
-| BCA Background | HTML/CSS | NumPy | Linux |
+| MCA  | React | Python | Git |
+| BCA | JavaScript | Pandas | GitHub |
+| | HTML/CSS | NumPy | Linux |
 | | MySQL | Power BI | Docker |
 | | | SQL | AWS |
 
