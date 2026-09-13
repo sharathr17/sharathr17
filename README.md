@@ -166,14 +166,6 @@ Analyze historical weather information and visualize temperature, rainfall, humi
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sharathr17&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
-
-</div>
-
 ---
 
 # 🔥 Developer Focus
