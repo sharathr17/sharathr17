@@ -1,24 +1,23 @@
-# 👋 Hi, I'm Sharath R
+<div align="center">
 
-### 🎓 MCA Student | 💻 Web Developer | ⚙️ Aspiring DevOps Engineer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sharath%20R&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MCA%20Student%20%40%20RVITM&descAlignY=58&descSize=20" alt="Header" />
 
-<p>
-  <a href="https://github.com/sharathr17">
-    <img src="https://img.shields.io/badge/GitHub-sharathr17-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sharath-r-maravanthe">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://sharathrmaravanthe.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+<a href="https://github.com/sharathr17">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Sharath+R+%F0%9F%91%8B;MCA+Student+%40+RVITM+%F0%9F%8E%93;Web+Developer+%F0%9F%8C%90;Learning+Data+Science+%F0%9F%93%8A;PHP+%7C+JavaScript+%7C+CSS+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=850&lines=Web+Developer;MCA+Student;Aspiring+DevOps+Engineer;Python+%7C+Java+%7C+React+%7C+MySQL;Data+Analytics+Enthusiast;Building+%7C+Learning+%7C+Deploying" alt="Typing SVG" />
+<br/>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=sharathr17&label=PROFILE%20VIEWS&style=for-the-badge" alt="Profile Views" />
+<a href="https://www.linkedin.com/in/sharath-r-maravanthe">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/sharathr17">
+  <img src="https://img.shields.io/badge/GitHub-sharathr17-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=sharathr17&label=Profile+Views&style=for-the-badge&color=blueviolet" alt="Profile views" />
+<a href="https://github.com/sharathr17?tab=followers">
+  <img src="https://img.shields.io/github/followers/sharathr17?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
+</a>
 
 </div>
 
@@ -26,367 +25,123 @@
 
 ## 👨‍💻 About Me
 
-I'm **Sharath R**, currently pursuing my **Master of Computer Applications (MCA)** at **R V Institute of Technology and Management**, with an expected graduation year of **2027**.
+- 🎓 Pursuing **MCA** at **RVITM** (RV Institute of Technology and Management)
+- 🌐 Building responsive, real-world web applications
+- 📊 Learning **Data Science** and exploring how data turns into decisions
+- 🌱 Currently sharpening my skills in **full-stack web development** and **data analysis**
+- 🤝 Open to collaborating on web projects and learning from the community
 
-I enjoy building practical applications, exploring data, developing responsive websites, and learning how modern applications are automated and deployed.
-
-```text
-🎓 Education      MCA — R V Institute of Technology and Management
-📅 Graduation     2027
-💻 Main Interest  Web Development
-⚙️ Career Focus   DevOps Engineering
-📊 Data Focus     Data Analytics & Visualization
-☁️ Cloud Focus    AWS
-🌱 Mindset        Learn → Build → Test → Deploy → Improve
-```
+---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming
-<p><img src="https://skillicons.dev/icons?i=python,java,javascript" /></p>
+**Languages & Web**
 
-### 🌐 Web Development
-<p><img src="https://skillicons.dev/icons?i=html,css,react" /></p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 🗄️ Database
-<p><img src="https://skillicons.dev/icons?i=mysql" /></p>
+**Learning**
 
-### ⚙️ DevOps & Cloud
-<p><img src="https://skillicons.dev/icons?i=git,github,linux,docker,aws" /></p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 📊 Data Analytics
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-</p>
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-# 📊 Data Analytics Workflow
+## 🚀 Featured Projects
 
-```text
-📥 Collect Data
-      ↓
-🧹 Clean Data
-      ↓
-🔎 Exploratory Data Analysis
-      ↓
-📐 Feature Analysis
-      ↓
-📈 Visualization
-      ↓
-💡 Insights
-      ↓
-🎯 Decision Making
-```
+### 🌦️ Weather Now
+A modern, responsive front-end weather web application that delivers real-time weather information, including:
 
----
+- Current conditions
+- Hourly forecast
+- Weekly outlook
+- Air quality
+- Climate indicators
+- Official weather alerts
 
-# 🚀 Featured Projects
+Built as part of a **Skill Development / Front-End Website Development Activity**.
 
-## 🌐 1. Personal Portfolio Website
+**Tech:** `HTML` `CSS` `JavaScript` `OpenWeatherMap API`
 
-Responsive portfolio website to showcase education, skills, projects and professional profile.
-
-**Technologies:** HTML • CSS • JavaScript • React
-
-🔗 **Live:** https://sharathrmaravanthe.vercel.app/
+🔗 [View Repository](https://github.com/sharathr17/WeatherNow)
 
 ---
 
-## 📊 2. Student Performance Analytics Dashboard
+### 📱 Mobile Store
+A mobile phone store website with product listings and a dynamic, database-driven backend.
 
-Analyze marks, attendance, subject performance and academic trends through an interactive dashboard.
+**Tech:** `PHP` `JavaScript` `CSS`
 
-**Technologies:** Python • Pandas • Matplotlib • Power BI • Excel • SQL
-
----
-
-## 🛒 3. E-Commerce Sales Analytics
-
-Analyze sales, revenue, products, customers, regions and monthly growth to generate business insights.
-
-**Technologies:** Python • Pandas • SQL • Power BI • Excel
+🔗 [View Repository](https://github.com/sharathr17/mobilestore)
 
 ---
 
-## ⚙️ 4. DevOps CI/CD Project
+### 🏨 Ocean Pearls Hotels
+A hotel booking web application where users can browse hotels and make reservations.
 
-A practical project demonstrating source control, automated builds, testing, containerization and deployment.
+**Tech:** `PHP` `JavaScript` `CSS`
 
-```text
-👨‍💻 Developer
-     ↓
-Git Push
-     ↓
-GitHub
-     ↓
-⚙️ CI Pipeline
-     ↓
-🧪 Build & Test
-     ↓
-🐳 Docker
-     ↓
-☁️ AWS
-     ↓
-🚀 Deployment
-```
-
-**Technologies:** Git • GitHub Actions • Linux • Docker • AWS
-
----
-
-## 🌦️ 5. Weather Data Analytics
-
-Analyze historical weather information and visualize temperature, rainfall, humidity and seasonal patterns.
-
-**Technologies:** Python • Pandas • NumPy • Matplotlib • Power BI
-
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sharathr17&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharathr17&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sharathr17&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-# 🔥 Developer Focus
-
-| Area | Technologies |
-|---|---|
-| 💻 Programming | Python • Java • JavaScript |
-| 🌐 Frontend | HTML • CSS • React |
-| 🗄️ Database | MySQL • SQL |
-| 📊 Analytics | Pandas • NumPy • Matplotlib |
-| 📊 BI | Power BI • Excel |
-| ⚙️ DevOps | Git • GitHub • Linux • Docker |
-| ☁️ Cloud | AWS |
-
----
-
-# 🧭 Career Roadmap
-
-```text
-                   🎯 CAREER GOAL
-                         │
-                         ▼
-              Software / DevOps Engineer
-                         │
-        ┌────────────────┼────────────────┐
-        │                │                │
-        ▼                ▼                ▼
-   💻 DEVELOPMENT    ⚙️ DEVOPS       📊 ANALYTICS
-        │                │                │
-        ▼                ▼                ▼
-   React / JS       Linux / Git      Python
-   Python / Java    Docker           Pandas
-   MySQL            CI/CD            SQL
-        │                │                │
-        └────────────────┼────────────────┘
-                         │
-                         ▼
-                    ☁️ AWS CLOUD
-                         │
-                         ▼
-                  🚀 REAL PROJECTS
-                         │
-                         ▼
-                   💼 CAREER READY
-```
-
----
-
-# 📚 Current Learning Path
-
-### 💻 Web Development
-
-```text
-HTML              ████████████████████
-CSS               ████████████████████
-JavaScript        ████████████████░░░░
-React             ██████████████░░░░░░
-```
-
-### 📊 Data Analytics
-
-```text
-Python            █████████████████░░░
-Pandas            ███████████████░░░░░
-NumPy             ███████████████░░░░░
-Matplotlib        ██████████████░░░░░░
-SQL               ███████████████░░░░░
-Power BI          █████████████░░░░░░░
-Excel             ███████████████░░░░░
-```
-
-### ⚙️ DevOps & Cloud
-
-```text
-Git / GitHub       █████████████████░░░
-Linux              █████████████░░░░░░░
-Docker             ███████████░░░░░░░░░
-AWS                ██████████░░░░░░░░░░
-CI/CD              ████████░░░░░░░░░░░░
-```
-
-> These indicators represent current learning focus, not formal proficiency scores.
-
----
-
-# 🎯 2026–2027 Goals
-
-```text
-✅ Strengthen programming fundamentals
-✅ Build responsive web applications
-🔄 Improve React & JavaScript
-🔄 Build strong Data Analytics projects
-🔄 Improve SQL & database design
-🔄 Learn CI/CD pipelines
-🔄 Improve Docker & Linux skills
-🔄 Deploy projects using AWS
-🔄 Contribute to Open Source
-🎯 Prepare for Software / DevOps roles
-```
-
----
-
-# 🧩 Problem Solving Approach
-
-```text
-💡 PROBLEM
-    ↓
-🔎 UNDERSTAND
-    ↓
-📝 DESIGN
-    ↓
-💻 BUILD
-    ↓
-🧪 TEST
-    ↓
-🚀 DEPLOY
-    ↓
-📊 ANALYZE
-    ↓
-🔄 IMPROVE
-```
-
----
-
-# 🏆 Profile Highlights
-
-| 🎓 Education | 💻 Development | 📊 Analytics | ⚙️ DevOps |
-|---|---|---|---|
-| MCA  | React | Python | Git |
-| BCA | JavaScript | Pandas | GitHub |
-| | HTML/CSS | NumPy | Linux |
-| | MySQL | Power BI | Docker |
-| | | SQL | AWS |
-
----
-
-# 💡 Developer Philosophy
-
-> **Good software starts with understanding the problem.**
-
-I believe every project is an opportunity to learn something new, build something useful, and improve my engineering skills.
-
-```text
-Learn
-  ↓
-Build
-  ↓
-Debug
-  ↓
-Understand
-  ↓
-Improve
-  ↓
-Repeat 🔄
-```
-
----
-
-# 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/sharathr17">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/sharath-r-maravanthe">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://sharathrmaravanthe.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="mailto:sharathrmaravanthe@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br><br>
-
-### ⭐ Thanks for visiting my profile!
-
-### 🚀 Learn • Build • Analyze • Deploy • Improve
-
-</div>
-
-
-
----
-
-## 🛠️ Languages and Tools
-
-<p align="left">
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/></a>
-</p>
+🔗 [View Repository](https://github.com/sharathr17/ocean_pearls)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharathr17&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharathr17&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" /></p>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sharathr17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharathr17&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharathr17&theme=tokyonight" alt="GitHub Streak" /></p>
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharathr17&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sharathr17&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharathr17&theme=tokyonight" alt="Profile details" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sharathr17&theme=tokyonight" alt="Repos per language" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sharathr17&theme=tokyonight" alt="Most commit language" height="170" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=sharathr17&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
+
+</div>
 
 ---
 
-## 🔗 Connect with Me
-<p align="left">
-  <!-- Add your actual LinkedIn or other links -->
-  <a href="https://github.com/sharathr17" target="blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/sharath-r-maravanthe"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge"/></a>
-</p>
+## 🎯 Currently
+
+- 🔭 Working on more full-stack projects with PHP and JavaScript
+- 📚 Learning Python for data science and data visualization
+- 💡 Exploring APIs and building data-driven interfaces
+
+---
+
+## 📫 Let's Connect
+
+- 💼 LinkedIn: [sharath-r-maravanthe](https://www.linkedin.com/in/sharath-r-maravanthe)
+- 🐙 GitHub: [@sharathr17](https://github.com/sharathr17)
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="Footer" />
+
+⭐ If you like my projects, consider giving them a star!
+
+<img src="https://komarev.com/ghpvc/?username=sharathr17&label=Visitors&style=flat-square&color=00d9ff" alt="Visitor counter" />
+
+</div>
